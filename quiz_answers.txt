@@ -1,1 +1,39 @@
 Include your answers to the knowledge quiz here.
+
+1. Which of the following represents a correct order of evalutation for a SQL SELECT statement?
+C FROM, JOIN, WHERE, SELECT, ORDER BY, OFFSET
+
+2. Which of the following represents a correct order of evalutation for a SQL SELECT statement?
+A FROM, GROUP BY, HAVING, SELECT, LIMIT
+
+3. Which of the following SQL queries are valid?
+C ``SELECT * FROM departments
+JOIN employees ON (employees.dept_code = departments.dept_code);``
+
+What is the purpose of a LEFT JOIN?
+C To query multiple tables using a foreign-key relationship, even where
+the primary-key field in both tables is NULL
+
+What is the purpose of Javascript in the client-side of a web application?
+C To handle user actions in the browser, send requests, and create interactivity in the browser
+
+What is a callback in JavaScript?
+B A callable funtion passed as an argument to another function
+
+Which of the following is not a valid way to run JavaScript in a web browser?
+D Write JavaScript interactively in the JavaScript console.
+
+What is the datatype of the following something variable?
+let something = document.querySelector('#name-section');
+C A string of HTML
+
+What is jQuery?
+D A JS database querying library
+
+What does the following code accomplish?
+let color = $('input#color-choice').val();
+B Assigns the variable color to the string that the user typed or selected in a form input element.
+
+What is AJAX?
+D A technology that exists in a web browser
+
